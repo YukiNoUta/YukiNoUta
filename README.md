@@ -1,3 +1,9 @@
+<p aligh="center">
+  <a href="https://shiraha.moe/">
+    <img src="@Ariesbto_YUKI_e16a.jpg" alt="yuuki">
+  </a>
+</p>  
+
 <h2 lang="ja" class="towanimau-yukinouta" align="center">
   <span color="#87A19E">今日もまだ、</span>
   <span color="pink">春の訪れを予感しながら、</span>
